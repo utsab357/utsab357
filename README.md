@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Utsab Halder
 
-🚀 Full-Stack Developer (React & Django)  
-💡 Passionate about building real-world, scalable web applications
+🐍 **Python Developer & Full-Stack Engineer**  
+🚀 Working with **Python, Django, and React** to build scalable, real-world applications.
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Working on full-stack web applications using **React** and **Django**
-- 🧠 Focused on clean backend APIs, authentication, and database design
-- 🌱 Learning advanced **Django REST Framework**, system design, and deployment
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Django, REST APIs**
-- ⚡ I prefer building complete projects from scratch over following tutorials
+- Python developer with strong experience in **Django** and backend API development
+- Build full-stack applications using **React** on the frontend and **Django** on the backend
+- Focused on **clean architecture**, authentication, and database-driven systems
+- Currently learning **advanced Django REST Framework**, system design, and deployment
+- Comfortable with **Python, HTML, CSS, JavaScript, React, Django, REST APIs**
+- Prefer building **complete systems from scratch** over tutorial-based projects
 
 ---
 
