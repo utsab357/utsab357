@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Utsab Halder</h1>
 
 <p align="center">
-  🐍 Python Developer &nbsp;•&nbsp; ⚙️ Backend Engineer &nbsp;•&nbsp; 🌐 Full-Stack (React & Django)
+  🐍 Python Developer &nbsp;•&nbsp; 🎨 Frontend Engineer; 🌐 Full-Stack (React & Django)
 </p>
 
 <p align="center">
@@ -20,36 +20,36 @@
 
 ---
 
-## 🧠 Core Skills
+### 🧠 Core Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-0f172a?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=ffd43b)
+![Django](https://img.shields.io/badge/Django-1e293b?style=for-the-badge&logo=django&logoColor=22c55e)
+![Django REST](https://img.shields.io/badge/Django%20REST-1e293b?style=for-the-badge&logo=django&logoColor=38bdf8)
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Data & Tools
-![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=white)
+### 🎨 Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=facc15)
+![React](https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=38bdf8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
+
+
+### 🗄️ Data & Tools
+
+![SQLite](https://img.shields.io/badge/SQLite-1e293b?style=for-the-badge&logo=sqlite&logoColor=60a5fa)
+![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=3b82f6)
+![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=e5e7eb)
+![Postman](https://img.shields.io/badge/Postman-1e293b?style=for-the-badge&logo=postman&logoColor=f97316)
+
 
 ---
+## 📊 GitHub Activity
 
-## 📊 Activity
+<img src="https://github-readme-stats.vercel.app/api?username=utsab357&show_icons=true&theme=dark&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsab357&show_icons=true&theme=dark&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab357&layout=compact&theme=dark&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab357&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
