@@ -43,13 +43,6 @@
 ![Postman](https://img.shields.io/badge/Postman-1e293b?style=for-the-badge&logo=postman&logoColor=f97316)
 
 
----
-## 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=utsab357&show_icons=true&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab357&layout=compact&theme=dark&hide_border=true" />
-
 
 ---
 
