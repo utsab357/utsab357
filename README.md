@@ -58,6 +58,10 @@
   <a href="mailto:utsab357@outlook.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://utsabfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
 
 
