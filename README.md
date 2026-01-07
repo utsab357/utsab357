@@ -52,16 +52,17 @@
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/utsab-halder">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0a66c2"/>
+  <a href="https://linkedin.com/in/utsab-halder" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="mailto:utsab357@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335"/>
+  <a href="mailto:utsab357@outlook.com" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="https://utsabfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=browser-chrome&logoColor=922ed6"/>
+  <a href="https://utsabfolio.netlify.app/" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=22c55e"/>
   </a>
 </p>
+
 
 
 
