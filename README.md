@@ -64,6 +64,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=utsab357&color=12" />
-</p>
+
